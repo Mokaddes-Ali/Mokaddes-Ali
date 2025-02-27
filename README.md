@@ -73,36 +73,6 @@ I am a full-stack developer from Bangladesh with expertise in both front-end and
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddes-ali&" alt="mokaddes-ali" /></p>
 
 ---
-
-## Projects
-
-Here are a few projects that I have worked on:
-
-### 1. **Full Stack Construction Management System**
-   - A project tracking system with resource management.
-   - Built using **React**, **Laravel**, **MySQL**, **Tailwind CSS**, **REST API**.
-
-### 2. **Full Stack E-Commerce Website**
-   - Developed an e-commerce platform with secure payments and order tracking.
-   - Implemented **Stripe** and **PayPal** payment gateways.
-   - Built with **React**, **Laravel**, **MySQL**.
-
-### 3. **Accounting Management Software**
-   - Designed a financial tracking and reporting system for businesses.
-   - Built with **Laravel**, **MySQL**.
-
-### 4. **Inventory Management System**
-   - Created a stock management solution for efficient inventory tracking.
-   - Built with **React**, **Laravel**, **MySQL**, **Tailwind CSS**.
-
-### 5. **Subscription System**
-   - Implemented a subscription system with automated billing.
-   - Built using **React**, **Laravel**, **MySQL**.
-
-### 6. **Figma to React Conversions**
-   - Transformed Figma designs into fully responsive React apps.
-   - Utilized **React**, **Tailwind CSS**, **Bootstrap**, **CSS**.
-
 ---
 ## 📬 Get in Touch
 
