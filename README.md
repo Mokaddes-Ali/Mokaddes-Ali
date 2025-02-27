@@ -1,126 +1,112 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mokaddes-Ali/count.svg?"  />
-</div>
+# Hi 👋, I'm Mokaddes Ali
+## About Me:
 
-###
+I am a full-stack developer from Bangladesh with expertise in both front-end and back-end development. My primary focus is to create user-friendly and efficient web applications using modern technologies. I'm passionate about continuous learning and love to contribute to open-source projects.
 
-###
+- 🔭 I’m currently working on web development projects with React, Laravel, and PHP.
+- 🌱 I’m currently learning advanced topics in full-stack development and exploring cloud technologies.
+- 💬 Ask me about web development, PHP, React, Laravel, and MySQL.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mokaddes-ali) | [Email](mailto:mokaddes.ali@example.com)
+---
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+## Languages and Tools:
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
 
-###
+---
 
-## 🏆 GitHub Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
+## GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokaddes-ali&show_icons=true&locale=en&layout=compact" alt="mokaddes-ali" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokaddes-ali&show_icons=true&locale=en" alt="mokaddes-ali" /></p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddes-ali&" alt="mokaddes-ali" /></p>
 
-###
+---
 
-<p align="left">Hello World!!</p>
+## Projects
 
-###
+Here are a few projects that I have worked on:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mokaddes-Ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mokaddes-Ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 1. **Full Stack Construction Management System**
+   - A project tracking system with resource management.
+   - Built using **React**, **Laravel**, **MySQL**, **Tailwind CSS**, **REST API**.
 
-###
+### 2. **Full Stack E-Commerce Website**
+   - Developed an e-commerce platform with secure payments and order tracking.
+   - Implemented **Stripe** and **PayPal** payment gateways.
+   - Built with **React**, **Laravel**, **MySQL**.
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+### 3. **Accounting Management Software**
+   - Designed a financial tracking and reporting system for businesses.
+   - Built with **Laravel**, **MySQL**.
 
-###
+### 4. **Inventory Management System**
+   - Created a stock management solution for efficient inventory tracking.
+   - Built with **React**, **Laravel**, **MySQL**, **Tailwind CSS**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+### 5. **Subscription System**
+   - Implemented a subscription system with automated billing.
+   - Built using **React**, **Laravel**, **MySQL**.
 
-###
+### 6. **Figma to React Conversions**
+   - Transformed Figma designs into fully responsive React apps.
+   - Utilized **React**, **Tailwind CSS**, **Bootstrap**, **CSS**.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mokaddes-Ali/count.svg?"  />
-</div>
+---
+## 📬 Get in Touch
 
-###
+- 📧 Email: [mokaddes.ru2000@gmail.com](mailto:mokaddes.ru2000@gmail.com)
+- 🌍 LinkedIn: [linkedin.com/in/mokaddes-ali](https://www.linkedin.com/in/mokaddes-ali)
+- 📱 Phone: +880 1402967304
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mokaddes-Ali/count.svg?"  />
-</div>
+Feel free to reach out for collaboration or any inquiries! 😊
+---
 
-###
+## 🐍 Snake Game Animation
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![Snake Animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mokaddes-Ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mokaddes-Ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
+Thanks for visiting my GitHub profile! 😊
