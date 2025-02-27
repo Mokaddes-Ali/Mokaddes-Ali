@@ -1,4 +1,8 @@
 # Hi 👋, I'm Mokaddes Ali
+<!--
+**Mokaddes-Ali/Mokaddes-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ## About Me:
 
 I am a full-stack developer from Bangladesh with expertise in both front-end and back-end development. My primary focus is to create user-friendly and efficient web applications using modern technologies. I'm passionate about continuous learning and love to contribute to open-source projects.
@@ -55,6 +59,10 @@ I am a full-stack developer from Bangladesh with expertise in both front-end and
   </a> 
 </p>
 
+
+## 🐍 Snake Game Animation
+
+![Snake Animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
 ---
 
 ## GitHub Stats:
@@ -105,8 +113,6 @@ Here are a few projects that I have worked on:
 Feel free to reach out for collaboration or any inquiries! 😊
 ---
 
-## 🐍 Snake Game Animation
 
-![Snake Animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
 
 Thanks for visiting my GitHub profile! 😊
