@@ -12,7 +12,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg" alt="Snake animation" />
+## 🏆 GitHub Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
 
 ###
 
