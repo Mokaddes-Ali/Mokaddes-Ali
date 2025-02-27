@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mokaddes-Ali/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
