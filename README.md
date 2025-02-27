@@ -60,7 +60,7 @@ I am a full-stack developer from Bangladesh with expertise in both front-end and
 </p>
 
 
-## 🐍 Snake Game Animation
+## 🐍 Snake Animation
 
 ![Snake Animation](https://raw.githubusercontent.com/Mokaddes-Ali/Mokaddes-Ali/output/snake.svg)
 ---
